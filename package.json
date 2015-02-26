@@ -1,0 +1,23 @@
+{
+  "name": "slack-pomo",
+  "version": "0.0.1",
+  "description": "A web service to provide pomodoro timer functionality as a custom Slack slash command webhook",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/myrridin/slack-pomo-iojs.git"
+  },
+  "author": "Thomas Hart <myrridin@gmail.com>",
+  "license": "MIT License",
+  "bugs": {
+    "url": "https://github.com/myrridin/slack-pomo-iojs/issues"
+  },
+  "dependencies": {
+    "express": "^4.x.x",
+    "bodyParser": "^1.x.x"
+  },
+  "homepage": "https://github.com/myrridin/slack-pomo-iojs"
+}
